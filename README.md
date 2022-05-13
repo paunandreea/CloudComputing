@@ -8,10 +8,12 @@ Langa o masa buna merge si un cocktail apetisant. Astfel, m-am gandit sa integre
 Aplicatia are doua ecrane principale:
  * Cocktails
 In primul ecran utilizatorul poate cauta dupa nume un cocktail anume. Acestuia i se va returna o lista cu toate rezultatele, unde poate gasi diferite informatii precum modul de preparare, categoria din care face si desigur o imagine de prezentare.
- 
+<img width="1720" alt="image" src="https://user-images.githubusercontent.com/104909715/168316361-05476a3c-8ad9-4d7d-8965-1c6b90f4f4f3.png">
 
  * Meals
 In al doilea ecran utilizatorul poate cauta dupa nume diferite tipuri de mancare. Rezultatele vor fi aranjate in pagina pentru a avea posibilitatea sa gaseasca ingredientele, reteta si o imagine de prezentare.
+
+<img width="1728" alt="image" src="https://user-images.githubusercontent.com/104909715/168316554-8217bcc8-eb96-4b5f-a082-427c77bef051.png">
 
 
 ## Prezentare API-uri utilizate

@@ -6,11 +6,11 @@ Aceasta aplicatie are scopul de a fi un ajutor pentru o pregatire de party sau p
 M-am gandit sa fac o aplicatie web care sa ajute si sa inspire pe cei care se pregatesc de o petrece sau isi doresc o cina mai diferita. De ce sa vedem pregatirea meselor ca o sarcina, in loc sa incercam sa descoperim retete noi?  O problema destul de des intalnita este, pe de o parte, lipsa unor retete disponibile online, iar pe de alta parte felul in care pot folosi produsele de care dispun la prepararea unor retete.  
 Langa o masa buna merge si un cocktail apetisant. Astfel, m-am gandit sa integrez o parte de coktailuri pentru a transforma un pranz sau o cina intr-o experienta relaxanta sau care ajuta la socializare. 
 Aplicatia are doua ecrane principale:
- * Cocktails
+ * Cocktails;
 In primul ecran utilizatorul poate cauta dupa nume un cocktail anume. Acestuia i se va returna o lista cu toate rezultatele, unde poate gasi diferite informatii precum modul de preparare, categoria din care face si desigur o imagine de prezentare.
 <img width="1720" alt="image" src="https://user-images.githubusercontent.com/104909715/168316361-05476a3c-8ad9-4d7d-8965-1c6b90f4f4f3.png">
 
- * Meals
+ * Meals;
 In al doilea ecran utilizatorul poate cauta dupa nume diferite tipuri de mancare. Rezultatele vor fi aranjate in pagina pentru a avea posibilitatea sa gaseasca ingredientele, reteta si o imagine de prezentare.
 
 <img width="1728" alt="image" src="https://user-images.githubusercontent.com/104909715/168316554-8217bcc8-eb96-4b5f-a082-427c77bef051.png">

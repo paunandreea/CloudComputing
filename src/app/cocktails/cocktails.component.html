@@ -1,9 +1,9 @@
 <div>
     <div>
         <mat-form-field class="search-bar">
-            <input matInput type="text" [(ngModel)]="searchInput">
+            <input matInput type="text" [(ngModel)]="searchInput" (keyup.enter)="searchForCocktails()">
             <mat-placeholder class="placeholder">Search cocktail by name</mat-placeholder>
-            <button matSuffix mat-button (keyup.enter)="searchForCocktails()" (click)="searchForCocktails()"><mat-icon >search</mat-icon></button>
+            <button matSuffix mat-button (click)="searchForCocktails()"><mat-icon >search</mat-icon></button>
         </mat-form-field>
     </div>
 

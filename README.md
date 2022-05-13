@@ -2,6 +2,9 @@
 
 ### Introducere
 Aceasta aplicatie are scopul de a fi un ajutor pentru o pregatire de party sau pranz/cina. Activitatile uzuale, cum ar fi prepararea unui fel de mancare sau a unei bauturi, pot deveni momente placute si prin care putem invata lucruri noi.
+
+link video: https://youtu.be/opIO1udNkzU 
+
 ## Descriere problema
 M-am gandit sa fac o aplicatie web care sa ajute si sa inspire pe cei care se pregatesc de o petrece sau isi doresc o cina mai diferita. De ce sa vedem pregatirea meselor ca o sarcina, in loc sa incercam sa descoperim retete noi?  O problema destul de des intalnita este, pe de o parte, lipsa unor retete disponibile online, iar pe de alta parte felul in care pot folosi produsele de care dispun la prepararea unor retete.  
 Langa o masa buna merge si un cocktail apetisant. Astfel, m-am gandit sa integrez o parte de coktailuri pentru a transforma un pranz sau o cina intr-o experienta relaxanta sau care ajuta la socializare. 

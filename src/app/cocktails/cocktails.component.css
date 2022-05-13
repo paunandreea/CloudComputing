@@ -1,0 +1,31 @@
+.search-bar {
+    width: 40%;
+    margin: 16px 16px;
+}
+
+::ng-deep .mat-form-field-underline {
+    background-color: black !important;
+}
+
+.placeholder {
+    color: black !important
+}
+
+.card {
+    margin: 16px;
+}
+
+.content > mat-card {
+    margin-bottom: 16px;
+    height: 600px;
+    min-height: 600px;
+}
+
+.content {
+    margin-bottom: 36px;
+}
+
+.img {
+    margin-bottom: 16px;
+    margin-left: 2px;
+}

@@ -1,0 +1,13 @@
+<div>
+    <mat-toolbar>
+    <span>Cloud Computing</span>
+    <span class="spacer"></span>
+    <button mat-icon-button class="example-icon favorite-icon" aria-label="Example icon-button with heart icon">
+      <mat-icon [routerLink]="['/meals']" routerLinkActive="router-link-active" >fastfood</mat-icon>
+    </button>
+    <button mat-icon-button class="example-icon" aria-label="Example icon-button with share icon">
+     <mat-icon [routerLink]="['/cocktails']" >local_bar</mat-icon>
+   </button>
+    </mat-toolbar>
+</div>
+<router-outlet></router-outlet>
